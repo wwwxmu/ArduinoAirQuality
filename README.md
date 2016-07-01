@@ -27,7 +27,7 @@
 ```
 ---
 ###模块接线
-- ####LCD 5110与Arduino
+- LCD 5110与Arduino
 
 | LCD  5110|  | Arduino|
 |:----:|:---:| :---:|
@@ -41,7 +41,7 @@
 |GND | -> | GND  |
 
 
-- ####PM2.5粉尘检测传感器与Arduino
+- PM2.5粉尘检测传感器与Arduino
 
 ![](http://upload-images.jianshu.io/upload_images/1670644-c74fe02b973feedd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -58,7 +58,7 @@
 |6 | -> | 5V  |
 
 
-- ####MQ135空气质量检测模块与Arduino
+- MQ135空气质量检测模块与Arduino
 
 | MQ135|  | Arduino|
 |:----:|:---:| :---:|
@@ -66,7 +66,7 @@
 | AOUT | ->| A1 |
 |GND | -> | GND |
 
-- ####DHT11温湿度传感器与Arduino
+- DHT11温湿度传感器与Arduino
 
 | DHT11|  | Arduino|
 |:----:|:---:| :---:|
@@ -89,6 +89,8 @@
 > - [【Arduino基础教程】LCD5110显示屏](http://www.jianshu.com/p/da13f46f59ab)
 > - [【Arduino基础教程】DHT11温湿度传感器](http://www.jianshu.com/p/e85a01f5ea81)
 > - [【Arduino基础教程】MQ135空气质量检测模块](http://www.jianshu.com/p/db2be7aa6659)
+
+---
 
 ###源程序
 ```c
