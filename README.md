@@ -1,4 +1,4 @@
-![空气质量检测装置](http://o9k8cdbt4.bkt.clouddn.com/a.jpg)
+![空气质量检测装置](http://upload-images.jianshu.io/upload_images/1670644-ed9f36282b0d4981.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ###功能介绍
 本项目主要是实现基本的空气质量检测功能：
@@ -6,6 +6,8 @@
 2. 空气质量指数
 3. 空气湿度
 4. 空气温度
+
+
 ---
 
 ###准备材料
@@ -202,3 +204,15 @@ void loop(){
 }
 ```
 `源程序下载地址`：[https://github.com/wwwxmu/ArduinoAirQuality](https://github.com/wwwxmu/ArduinoAirQuality)
+
+---
+###附：测试得到的数据和空气质量对照：
+>3000 +     =  很差
+1050-3000 = 差
+300-1050 = 一般
+150-300 = 好
+75-150 = 很好
+0-75 = 非常好
+
+###附：室内空气质量对照表
+![室内空气质量对照表](http://upload-images.jianshu.io/upload_images/1670644-d598bd19c1622b1f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
